@@ -32,6 +32,7 @@ footer {
 
 main {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   background-color: #FBFFF4;
   width: 100%;
