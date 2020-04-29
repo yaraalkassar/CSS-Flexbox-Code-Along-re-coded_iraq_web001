@@ -30,7 +30,7 @@ footer {
   height: 100vh;
 }
 
-.main {
+main {
   display: flex;
   flex-wrap: wrap;
   background-color: #FBFFF4;
